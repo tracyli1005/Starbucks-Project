@@ -24,7 +24,7 @@ There are 1 notebooks available here to showcase work related to the above quest
 
 ## Results
 The main findings of the code can be found at the post available here.
-(https://zhuanlan.zhihu.com/p/149872580)
+(https://www.jianshu.com/p/843f51a9889e)
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Starbucks for the data. You can find the Licensing for the data and other descriptive information at Udacity.
