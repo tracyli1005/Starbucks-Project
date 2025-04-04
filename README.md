@@ -20,7 +20,7 @@ For this project, I was interested in using Starbuck Rewards APP user data to be
 The full set of files related to this course are owned by Udacity, so they are not publicly available here. However, you can see pieces of the analysis here.
 
 ## File Descriptions
-There are 1 notebooks available here to showcase work related to the above questions. Markdown cells were used to explain thoughts for certain steps. 
+There is 1 notebooks available here to showcase work related to the above questions. Markdown cells were used to explain thoughts for certain steps. 
 
 ## Results
 The main findings of the code can be found at the post available here.
